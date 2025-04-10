@@ -4,23 +4,6 @@
 
 This comprehensive dashboard project is built using the MERN (MongoDB, Express.js, React, Node.js) stack, providing a versatile interface for managing various aspects of data visualization, client interaction, and administrative functionalities. It offers light and dark mode themes for optimal user experience and is designed to be responsive across different devices.
 
-## Table of Contents
-
-1. [Demo](#Demo)
-2. [Introduction](#introduction)
-3. [Features](#features)
-4. [Technologies Used](#technologies-used)
-5. [Packages Used](#packages-used)
-6. [Installation](#installation)
-7. [Folder Structure](#folder-structure)
-8. [Running the Application](#running-the-application)
-9. [Author](#author)
-10. [Documentation](#documentation)
-
-## Demo
-
-You can see a live demo of the portfolio website at https://react-dashboard12.vercel.app.
-
 ## Introduction
 
 This project aims to offer a comprehensive dashboard solution utilizing the MERN stack. It provides a user-friendly interface with multiple tabs for handling various aspects of data visualization, product management, customer interaction, geographical insights, and sales analytics. The frontend is developed with React, integrating Nivo for graph components and MUI for visual components and MUI-X for tables. Meanwhile, the backend utilizes Express.js and MongoDB via Mongoose for data handling.
@@ -201,23 +184,3 @@ This structure separates the client and server codebases for better organization
 
 - Start the server: `npm run dev` in the `server` directory.
 - Start the client: `npm run dev` within the `client` directory.
-
-## Author
-
-- [@Shivam-Sharma-1](https://github.com/Shivam-Sharma-1)
-
-Certainly! Here's the documentation section with relevant links:
-
-## Documentation
-
-- **[React Documentation](https://reactjs.org/docs/getting-started.html)**: Explore React documentation for building user interfaces.
-- **[Nivo Documentation](https://nivo.rocks/docs/)**: Discover Nivo documentation for data visualization components in React.
-- **[Material-UI Documentation](https://mui.com/getting-started/usage/)**: Dive into Material-UI documentation for React UI components.
-- **[Express.js Documentation](https://expressjs.com/en/starter/installing.html)**: Learn more about Express.js for building web applications with Node.js.
-- **[MongoDB Documentation](https://docs.mongodb.com/)**: Explore MongoDB documentation for NoSQL database management.
-- **[Mongoose Documentation](https://mongoosejs.com/docs/)**: Refer to Mongoose documentation for MongoDB object modeling in Node.js.
-- **[React Router DOM Documentation](https://reactrouter.com/web/guides/quick-start)**: Learn how to use React Router DOM for client-side routing within the application.
-
----
-
-Feel free to adjust any sections or details according to your preferences!
